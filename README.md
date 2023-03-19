@@ -1,5 +1,5 @@
 # CloudBasedFaceAttendace
-This is a level up from my FaceAttendance project; here I've integrated cloud computing (aws), so that virtual servers can handle the entire storage and analysis portion; as a result, we no longer require any owned physical storage for the system's operation.
+This is a level up from my  <a href="https://github.com/jainharshit3107/Advance-ComputerVision/tree/master/FaceAttendance">Face Attendance</a> project; here I've integrated cloud computing (aws), so that virtual servers can handle the entire storage and analysis portion; as a result, we no longer require any owned physical storage for the system's operation.
 
 Additional library used:
 
