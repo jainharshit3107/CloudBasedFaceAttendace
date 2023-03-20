@@ -1,4 +1,7 @@
 # CloudBasedFaceAttendace
+<p align="center">
+  <img width="600" height="300" src="https://github.com/jainharshit3107/CloudBasedFaceAttendace/blob/master/CBFA%20System%20Architecture.png">
+</p>
 This is a level up from my  <a href="https://github.com/jainharshit3107/Advance-ComputerVision/tree/master/FaceAttendance">Face Attendance</a> project; here I've integrated cloud computing (aws), so that virtual servers can handle the entire storage and analysis portion; as a result, we no longer require any owned physical storage for the system's operation.
 
 Additional library used:
